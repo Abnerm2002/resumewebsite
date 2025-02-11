@@ -1,0 +1,44 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: ;
+}
+h1, h2 {
+    text-align: center;
+}
+.horizontal-list {
+    list-style-type: disc;
+    padding: 0;
+    text-align: center;
+}
+.horizontal-list li {
+    display: inline-block;
+    margin-right: 20px;
+    list-style-position: inside;
+}
+.skills-list {
+    text-align: center;
+}
+#crosslink-img {
+    width: 70px;
+    height: 70px;
+}
+#contentrix-img {
+    width: 17em;
+    height: 45px;
+}
+#amazon-img {
+    width: 17em;
+    height: 70px;
+}
+#giant-img {
+    width: 15em;
+    height: 70px;
+}
+#polo-img {
+    width: 17em;
+    height: 70px;
+}
+#abercrombie-img {
+    width: 25em;
+    height: 45px;
+}
